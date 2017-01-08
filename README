@@ -1,0 +1,5 @@
+#TrainActivity
+
+Create a train schedule application that incorporates Firebase to host arrival and departure data.
+The app retrieves and manipulates train information with Moment.js, and provides up-to-date information about various trains.
+This app uses simple bootstrap and css styling. 
